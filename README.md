@@ -1,7 +1,5 @@
 Perkenalkan nama saya **Adrian Aditya**.<br>
  
-Saya seorang **Curriculum Developer** di [Dicoding]().<br>
- 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](M).<br>
  
 Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
