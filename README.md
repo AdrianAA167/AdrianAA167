@@ -1,10 +1,7 @@
-Perkenalkan nama saya **Adrian Aditya**.<br>
+Perkenalkan nama saya **Adrian Aditya Prathama**.<br>
+
  
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](M).<br>
- 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]()ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/adrian-aditya-prathama)ku ya.
  
 ### Github Statistic
 <p align="left">
