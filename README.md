@@ -1,7 +1,7 @@
 Perkenalkan nama saya **Adrian Aditya Prathama**.<br>
 
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/adrian-aditya-prathama)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/adrian-aditya-prathama)ku ya.
  
 ### Github Statistic
 <p align="left">
